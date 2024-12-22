@@ -2,3 +2,6 @@
     remote = myremote
 ['remote "myremote"']
     url = F:\DVC-Data-Store\bank-telemarketing
+['remote "origin"']
+    url = s3://dvc
+    endpointurl = https://dagshub.com/Aniruddha6496/bank-telemarketing.s3
