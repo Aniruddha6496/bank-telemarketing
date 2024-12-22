@@ -1,0 +1,5 @@
+outs:
+- md5: aec0451bc97d21b70e7acf88eb22448d
+  size: 5458
+  hash: md5
+  path: bank-additional-names.txt
