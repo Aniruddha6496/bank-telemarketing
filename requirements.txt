@@ -7,3 +7,6 @@ dvc
 dvc-s3
 dagshub
 mlflow
+ipykernel
+ydata-profiling
+imblearn
