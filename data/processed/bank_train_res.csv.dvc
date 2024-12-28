@@ -1,0 +1,5 @@
+outs:
+- md5: 9e271064f20df2315aaeb64d03698719
+  size: 6029011
+  hash: md5
+  path: bank_train_res.csv
